@@ -9,3 +9,5 @@ HINT
 Here is the documentation for addEventListener: https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 
 And this is how your website execution should look like:
+
+[06-add-listener-with-js](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises/blob/master/.breathecode/assets/a1mgdPD.gif?raw=true)
