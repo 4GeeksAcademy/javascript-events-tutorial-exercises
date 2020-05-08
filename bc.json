@@ -26,19 +26,91 @@
     "exercisesPath": "./exercises",
     "exercises": [
         {
-            "slug": "01-introduction",
-            "title": "01-introduction",
+            "slug": "00-introduction",
+            "title": "00-introduction",
             "done": false,
-            "path": "exercises/01-introduction",
+            "path": "exercises/00-introduction",
             "translations": [
                 "us"
             ]
         },
         {
-            "slug": "02-hello-world",
-            "title": "02-hello-world",
+            "slug": "01-alert-on-click",
+            "title": "01-alert-on-click",
             "done": false,
-            "path": "exercises/02-hello-world",
+            "path": "exercises/01-alert-on-click",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "02-on-click-Hello-World",
+            "title": "02-on-click-Hello-World",
+            "done": false,
+            "path": "exercises/02-on-click-Hello-World",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "03-sum-values",
+            "title": "03-sum-values",
+            "done": false,
+            "path": "exercises/03-sum-values",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "04-hide-on-click",
+            "title": "04-hide-on-click",
+            "done": false,
+            "path": "exercises/04-hide-on-click",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "05-the-load-event",
+            "title": "05-the-load-event",
+            "done": false,
+            "path": "exercises/05-the-load-event",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "06-add-listener-with-js",
+            "title": "06-add-listener-with-js",
+            "done": false,
+            "path": "exercises/06-add-listener-with-js",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "07-count-on-click",
+            "title": "07-count-on-click",
+            "done": false,
+            "path": "exercises/07-count-on-click",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "07.1-change-turn-on-click",
+            "title": "07.1-change-turn-on-click",
+            "done": false,
+            "path": "exercises/07.1-change-turn-on-click",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "08-event-target",
+            "title": "08-event-target",
+            "done": false,
+            "path": "exercises/08-event-target",
             "translations": [
                 "us"
             ]
