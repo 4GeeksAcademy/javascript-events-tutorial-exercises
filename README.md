@@ -1,6 +1,6 @@
 # Event-Oriented Programming with Javascript
 
-<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises/blob/master/.breathecode/assets/badge.png?raw=true"></a>
+<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises/blob/master/.breathecode/assets/badge.svg?raw=true"></a>
 
 > By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
