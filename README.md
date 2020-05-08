@@ -8,6 +8,10 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
+This tutorial is is part of a bigger group of tutorials about web development, this repository focuses only on Javascript Events, you will learn Mouse Events, Keyboard events, Frame Events and how to react to those events to make your web application interactive.
+
+I strongly recomend doing this other tutorials in this order:
+
 1. [Introduction to HTML](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
 2. [Introduction to CSS](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
 3. [Introduction to Javascript](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
