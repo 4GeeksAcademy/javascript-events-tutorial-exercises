@@ -8,9 +8,11 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-
-1. [Introduction to The DOM](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
-2. [Using events & The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises) ← you are here now 🔥
+1. [Introduction to HTML](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
+2. [Introduction to CSS](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
+3. [Introduction to Javascript](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
+4. [Introduction to The DOM](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
+5. [Using events & The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises) ← you are here now 🔥
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/4GeeksAcademy/react-exercises/master/preview.gif">
