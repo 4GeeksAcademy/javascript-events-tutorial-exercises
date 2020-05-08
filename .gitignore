@@ -1,0 +1,20 @@
+# Ignore everything
+/*
+
+!.gitignore
+!.gitpod.yml
+!.gitpod.Dockerfile
+!bc.json
+!README.md
+
+!/exercises
+!/exercises/*
+
+!/.breathecode
+/.breathecode/**
+!/.breathecode/resets
+!/.breathecode/resets/**
+
+*.pyc
+__pycache__/
+.pytest_cache/

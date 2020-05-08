@@ -1,0 +1,47 @@
+{
+    "port": 3000,
+    "address": "https://aff09111-8ea3-44cd-9eee-5fe6e83b4330.ws-us02.gitpod.io",
+    "editor": "gitpod",
+    "outputPath": "./.breathecode/dist",
+    "publicPath": "/preview",
+    "grading": "isolated",
+    "ignoreRegex": null,
+    "webpack_template": null,
+    "disable_grading": false,
+    "onCompilerSuccess": "open-browser",
+    "language": "vanillajs",
+    "compiler": "webpack",
+    "tester": "jest",
+    "actions": [
+        "build",
+        "test",
+        "reset"
+    ],
+    "difficulty": "beginner",
+    "duration": 8,
+    "description": "Learn how to make your application interactive, wait for the user to click, use the keyboard, use the mouse, resize the window and much more!",
+    "title": "Javascript Events",
+    "slug": "javascript-events",
+    "session": 2113974553800419600,
+    "exercisesPath": "./exercises",
+    "exercises": [
+        {
+            "slug": "01-introduction",
+            "title": "01-introduction",
+            "done": false,
+            "path": "exercises/01-introduction",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "02-hello-world",
+            "title": "02-hello-world",
+            "done": false,
+            "path": "exercises/02-hello-world",
+            "translations": [
+                "us"
+            ]
+        }
+    ]
+}
