@@ -20,10 +20,6 @@ I strongly recommend doing this tutorials in this order:
 4. [Introduction to The DOM](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
 5. [Using events & The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises) ← you are here now 🔥
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/4GeeksAcademy/react-exercises/master/preview.gif">
-</p>
-
 <h2>One click installation:</h2>
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises.git)
