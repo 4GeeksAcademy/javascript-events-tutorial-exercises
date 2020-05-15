@@ -2,7 +2,6 @@
 const fs=require("fs");
 const path=require("path");
 const html=fs.readFileSync(path.resolve(__dirname, "./index.html"), "utf8");
-const css=fs.readFileSync(path.resolve(__dirname, "./styles.css"), "utf8");
 
 jest.dontMock("fs");
 
@@ -22,10 +21,6 @@ test("You should not change or delete the existing elements in the head tag", fu
     expect(title).not.toBe(-1)
     expect(html.toString().indexOf(`<style`)>-1).toBeFalsy();
 })
-
-test("The styles.css file should be empty", function () {
-    expect(css.toString()==="").toBeTruthy();
-});
 
 // Testing for HTML
 
