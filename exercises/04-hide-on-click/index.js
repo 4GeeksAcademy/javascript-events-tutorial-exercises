@@ -1,4 +1,4 @@
-window.myClickFunction = function myEventListener()
+window.myEventListener = function myEventListener()
 {
 	//your code here
 }
