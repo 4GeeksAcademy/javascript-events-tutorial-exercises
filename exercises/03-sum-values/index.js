@@ -1,4 +1,4 @@
-window.myClickFunction = function calculateSumListener()
+window.calculateSumListener = function calculateSumListener()
 {
 	//Return the value of the input #firstNumber
 	var stringA = document.getElementById('firstNumber').value;
