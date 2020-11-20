@@ -9,7 +9,7 @@ For example:
 - and much more!
 
 When you declare any event-handler function, you can use an optional parameter that contains the event information like this:
-function myFunctionName(eventInformation){}
+`function myFunctionName(eventInformation){}`
 This parameter can have the name that you want, and you can trust that it will always contain the information of the event that was triggered. For example the eventInformation.target property will return the object that triggered the event.
 
 ## 📝 Instructions
