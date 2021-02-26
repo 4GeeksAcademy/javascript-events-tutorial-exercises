@@ -1,4 +1,4 @@
-window.calculateSumListener = function calculateSumListener()
+window.onLoad = function calculateSumListener(){
 	//Return the value of the input #firstNumber
 	var stringA = document.getElementById("firstNumber").value;
 	//Return the value of the input #secondNumber
