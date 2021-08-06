@@ -1,12 +1,15 @@
+
 image:
   file: .gitpod.Dockerfile
 
 ports:
     - port: 3000
-      onOpen: open-preview
-tasks:
-    - command: >
-        bc run;
+      onOpen: ignore
+
+vscode:
+  extensions:
+    - learnpack.learnpack-vscode
+    
 github:
     prebuilds:
         # enable for the master/default branch (defaults to true)
