@@ -10,4 +10,4 @@ In this HTML code there are 2 buttons: one of them has `myClickFunction` as a li
 
 ### 💡 Hint: 
 
-Use the tag property called "onclick" just like in the other button.
++ Use the tag property called "onclick" just like in the other button.

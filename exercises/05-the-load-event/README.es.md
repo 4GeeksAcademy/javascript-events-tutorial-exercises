@@ -9,4 +9,5 @@ Es una muy buena práctica esperar a que el navegador termine de cargar la pági
 ## 💡 Pista:
 
 - El listener debe asignarse al body.
+
 - Así se añade un listener de evento a un evento load: http://www.w3schools.com/jsref/event_onload.asp

@@ -9,4 +9,5 @@ It is a very good practice to wait for the browser to finish loading the page be
 ## 💡 Hint:
 
 - The listener has to be assigned to the body.
+
 - Here is how to add the event listener to the load event: http://www.w3schools.com/jsref/event_onload.asp
