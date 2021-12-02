@@ -18,4 +18,4 @@ Right now this code is listening for the load and it prompts an alert when the w
 
 ### Expexted result:
 
-[06-add-listener-with-js](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises/blob/master/.breathecode/assets/a1mgdPD.gif?raw=true)
+[06-add-listener-with-js](../../.learn/assets/a1mgdPD.gif?raw=true)
