@@ -6,7 +6,9 @@
     "description": "Learn how to make your application interactive, wait for the user to click, use the keyboard, use the mouse, resize the window and much more!",
     "title": "Javascript Events",
     "slug": "javascript-events",
+    "graded": false,
     "config": {
+        "disableGrading": true,
         "editor": {
             "version": "1.0.72"
         }
