@@ -1,6 +1,7 @@
 {
     "language": "vanillajs",
     "difficulty": "beginner",
+    "preview": "https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises/blob/master/.learn/assets/js-events.jpeg?raw=true",
     "duration": 8,
     "repository": "https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises",
     "description": "Learn how to make your application interactive, wait for the user to click, use the keyboard, use the mouse, resize the window and much more!",
