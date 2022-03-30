@@ -11,6 +11,7 @@
 This tutorial its part of a bigger group of tutorials about web development, this repository focuses only on Javascript Events, you will learn Mouse Events, Keyboard events, Frame Events and how to react to those events to make your web application interactive.
 
 You can [start the tutorial online](#one-click-installation) in just 10 seconds or [download the source files](#local-installation) to do it locally.
+#### Before we start... other related tutorials
 
 I strongly recommend doing this tutorials in this order:
 
