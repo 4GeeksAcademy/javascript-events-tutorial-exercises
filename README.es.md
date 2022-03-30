@@ -24,7 +24,7 @@ You can [start the tutorial online](#one-click-installation) in just 10 seconds 
 
 Puedes [empezar el tutorial online](#instalación-en-un-clic) en solo 10 segundos o [puedes descargar lteos archivos](#instalación-local) para hacerlo localmente.
 
-Te recomiendo hacer lo tutoriales en este orden:
+#### Antes de empezar... hay otros tutoriales relacionados
 
 1. [Introducciónn a HTML](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
 2. [Introducción a CSS](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
