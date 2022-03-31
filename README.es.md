@@ -1,5 +1,5 @@
 # Programación Orientada a Eventos con Javascript
-
+<!-- hide -->
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises/blob/master/.learn/assets/badge.svg?raw=true"></a>
 
 > Por [@alesanchezr](https://twitter.com/alesanchezr) y [otros colaboradores](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises/graphs/contributors) en [4Geeks Academy](https://4geeksacademy.co/)
@@ -9,7 +9,7 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 Este tutorial es parte de un grupo de tutoriales sobre desarrollo web, este repositorio se enfoca solo en los Eventos de Javascript.
-
+<!-- endhide -->
 #### Aprenderás los siguientes conceptos:
 
 1. Mouse events
@@ -20,10 +20,7 @@ Este tutorial es parte de un grupo de tutoriales sobre desarrollo web, este repo
 
 4. Como reaccioner antes esto eventos para que tu aplicación web sea interactiva.
 
-You can [start the tutorial online](#one-click-installation) in just 10 seconds or [download the source files](#local-installation) to do it locally.
-
-Puedes [empezar el tutorial online](#instalación-en-un-clic) en solo 10 segundos o [puedes descargar lteos archivos](#instalación-local) para hacerlo localmente.
-
+<!-- hide -->
 #### Antes de empezar... hay otros tutoriales relacionados
 
 1. [Introducciónn a HTML](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
@@ -36,6 +33,7 @@ Puedes [empezar el tutorial online](#instalación-en-un-clic) en solo 10 segundo
 <p align="center">
   <img src="https://raw.githubusercontent.com/4GeeksAcademy/react-exercises/master/preview.gif">
 </p>
+<!-- endhide -->
 
 ## Instalación en un clic
 
