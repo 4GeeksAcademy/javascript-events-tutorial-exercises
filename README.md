@@ -11,13 +11,17 @@
 
 This tutorial its part of a bigger group of tutorials about web development, this repository focuses only on Javascript Events, you will learn Mouse Events, Keyboard events, Frame Events and how to react to those events to make your web application interactive.
 <!-- endhide -->
+
+### What you will learn during this tutorial:
+
 1. The first event that triggers on a website
 2. make your code react to user clicks on buttons
 3. Make a counter that increases when the user clicks
 4. Add event listeners
 5. What is the event target?
+
 <!-- hide -->
-#### Before we start... other related tutorials
+### Before we start... other related tutorials
 
 I strongly recommend doing this tutorials in this order:
 
