@@ -1,5 +1,6 @@
 # Event-Oriented Programming with Javascript
 
+<!-- hide -->
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises/blob/master/.learn/assets/badge.svg?raw=true"></a>
 
 > By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
@@ -9,8 +10,13 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 This tutorial its part of a bigger group of tutorials about web development, this repository focuses only on Javascript Events, you will learn Mouse Events, Keyboard events, Frame Events and how to react to those events to make your web application interactive.
-
-You can [start the tutorial online](#one-click-installation) in just 10 seconds or [download the source files](#local-installation) to do it locally.
+<!-- endhide -->
+1. The first event that triggers on a website
+2. make your code react to user clicks on buttons
+3. Make a counter that increases when the user clicks
+4. Add event listeners
+5. What is the event target?
+<!-- hide -->
 #### Before we start... other related tutorials
 
 I strongly recommend doing this tutorials in this order:
@@ -21,6 +27,7 @@ I strongly recommend doing this tutorials in this order:
 4. [Introduction to The DOM](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
 5. [Using events & The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises) ← you are here now 🔥
 6. [Object Oriented Programming](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises)
+<!-- hide -->
 
 ## One click installation:
 
