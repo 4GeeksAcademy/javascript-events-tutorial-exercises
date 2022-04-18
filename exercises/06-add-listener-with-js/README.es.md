@@ -19,4 +19,4 @@ Ahora el código está escuchando la ejecución y muestra una alerta cuando el s
 ### Resultado esperado:
 
 
-[06-add-listener-with-js](../../.learn/assets/a1mgdPD.gif?raw=true)
+![06-add-listener-with-js](../../.learn/assets/a1mgdPD.gif?raw=true)
