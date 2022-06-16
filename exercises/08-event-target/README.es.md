@@ -6,7 +6,7 @@ Por ejemplo:
 
 - Si un usuario hace clic en un botón, sabes que bóton específico tocó el usuario.
 
-- Si el usurio se desplaza por la ventana, puedes saber cuánto se ha desplazado.
+- Si el usuario se desplaza por la ventana, puedes saber cuánto se ha desplazado.
 
 - Si el usuario movió el mouse, puedes saber la posición del mouse.
 
