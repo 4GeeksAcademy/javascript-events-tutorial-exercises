@@ -31,7 +31,6 @@ I strongly recommend doing this tutorials in this order:
 4. [Introduction to The DOM](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
 5. [Using events & The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises) ← you are here now 🔥
 6. [Object Oriented Programming](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises)
-<!-- hide -->
 
 ## One click installation:
 
