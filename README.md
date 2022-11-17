@@ -37,6 +37,7 @@ I strongly recommend doing this tutorials in this order:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises.git)
 
+<!-- endhide -->
 
 ## Local Installation
 
