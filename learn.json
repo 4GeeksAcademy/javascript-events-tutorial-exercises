@@ -4,8 +4,14 @@
     "preview": "https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises/blob/master/.learn/assets/js-events.jpeg?raw=true",
     "duration": 8,
     "repository": "https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises",
-    "description": "Learn how to make your application interactive, wait for the user to click, use the keyboard, use the mouse, resize the window and much more!",
-    "title": "Javascript Events",
+    "description": {
+        "us": "Learn how to make your application interactive, wait for the user to click, use the keyboard, use the mouse, resize the window and much more!",
+        "es": "Aprende a convertir tu aplicación interactiva, espera por el usuario para hacer click, usa el teclado, usa el mouse, cambia el tamaño de la ventana y mucho más!",
+    },
+    "title": {
+        "us": "Javascript Events",
+        "es": "Eventos de Javascript",
+    },
     "slug": "javascript-events",
     "videoSolutions": false,
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
