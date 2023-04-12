@@ -12,6 +12,8 @@
 This tutorial its part of a bigger group of tutorials about web development, this repository focuses only on Javascript Events, you will learn Mouse Events, Keyboard events, Frame Events and how to react to those events to make your web application interactive.
 <!-- endhide -->
 
+*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises/blob/master/README.es.md) :es:* 
+
 ### What you will learn during this tutorial:
 
 1. The first event that triggers on a website
@@ -38,8 +40,6 @@ You can open these exercises in just a few seconds by clicking: [Open in Codespa
 
 > Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
-<!-- endhide -->
-
 ## Local Installation
 
 1) Make sure you have [learnpack](https://github.com/learnpack/learnpack-cli) installed and `node.js` version v14+ and jest v27. This is the command to install the learnpack-cli and jest:
@@ -60,6 +60,7 @@ $ learnpack plugins:install learnpack-dom
 ```sh
 $ learnpack start
 ```
+<!-- endhide -->
 
 ## How are the exercises organized?
 
@@ -70,6 +71,8 @@ Each exercise is a small react application containing the following files:
 1. **style.css:** your website styles, they have to be imported from the index.html
 2. **README.md:** contains exercise instructions.
 3. **test.js:** you don't have to open this file, it contains the testing script for the exercise.
+
+> Note: The exercises have automatic grading but its very rigid and string, my recommendation is to ignore the tests and use them only as a recommendation or you can get frustrated.
 
 ## Contributors
 
