@@ -1,1 +1,1 @@
-//Declare your function here
+// Declare your function here
