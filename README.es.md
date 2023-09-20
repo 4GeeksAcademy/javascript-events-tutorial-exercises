@@ -17,23 +17,23 @@ Este tutorial es parte de un grupo de tutoriales sobre desarrollo web, este repo
 1. Eventos del ratón.
 2. Eventos del teclado.
 3. Eventos de ventana.
-4. Como reaccioner ante estos eventos para que tu aplicación web sea interactiva.
+4. Como reaccionar ante estos eventos para que tu aplicación web sea interactiva.
 
 <!-- hide -->
 ### Antes de empezar... hay otros tutoriales relacionados
 
-1. [Introducciónn a HTML](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
+1. [Introducción a HTML](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
 2. [Introducción a CSS](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
-3. [Introducción a Javascript](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
-4. [Introducción a The DOM](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises) 
-5. [Uso de eventos & The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises) ← Estás aquí 🔥
+3. [Introducción a JavaScript](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
+4. [Introducción a El DOM](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises) 
+5. [Uso de eventos & El DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises) ← Estás aquí 🔥
 6. [Programación Orientada a Objetos](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises)
 
 ## Instalación en un clic (recomendado)
 
 Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Codespaces](https://codespaces.new/?repo=4GeeksAcademy/javascript-events-tutorial-exercises) (recomendado) o [Abrir en Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises.git).
 
-> Una vez ya tengas abirto VSCode los ejercicios de LearnPack deberían empezar automáticamente, si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
+> Una vez ya tengas abierto VSCode los ejercicios de LearnPack deberían empezar automáticamente, si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
 
 ## Instalación local
 
