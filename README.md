@@ -26,13 +26,11 @@ This tutorial is part of a bigger group of tutorials about web development, this
 <!-- hide -->
 ### Before we start... other related tutorials
 
-I strongly recommend doing these tutorials in this order:
-
 1. [Introduction to HTML](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
 2. [Introduction to CSS](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
 3. [Introduction to JavaScript](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
 4. [Introduction to The DOM](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
-5. [Using events & The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises) ← you are here now 🔥
+5. [Using events & The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises) ← You are here now 🔥
 6. [Object Oriented Programming](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises)
 
 ## One click installation (recommended):
@@ -66,11 +64,12 @@ $ learnpack start
 ```
 <!-- endhide -->
 
+
 ## How are the exercises organized?
 
 Each exercise is a small React application containing the following files:
 
-1. **app.js:** represents the entry JavaScript file that will be executed by the computer.
+1. **index.js:** represents the entry JavaScript file that will be executed by the computer.
 1. **index.html:** represents the entry website.
 1. **style.css:** your website styles, they have to be imported from the index.html.
 2. **README.md:** contains exercise instructions.
