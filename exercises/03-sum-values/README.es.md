@@ -1,4 +1,4 @@
-# `03` Suma Valores
+# `03` Sum Values
 
 ## 📝 Instrucciones:
 
