@@ -8,4 +8,4 @@
 
 - Usa la propiedad `onclick` de la etiqueta input.
 
-- Declara la función javascript en el index.js y establécela como listener en la propiedad input.
+- Declara la función JavaScript en el `index.js` y establécela como listener en la propiedad input.
