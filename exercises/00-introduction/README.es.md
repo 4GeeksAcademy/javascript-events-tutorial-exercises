@@ -10,4 +10,4 @@ En este tutorial estaremos viendo los eventos de JavaScript:
 
 4. Esperar a que el sitio web CARGUE(LOAD) antes de hacer nada (evento `onLoad`).
 
-5. Implentar un contador simple cuando el usuario haga clic.
+5. Implementar un contador simple cuando el usuario haga clic.
