@@ -4,7 +4,7 @@
 
 1. Crea una función Listener de evento que sea llamada automáticamente cuando el usuario presione el botón que está en el lado HTML del ejercicio.
 
-## 💡 Pista: 
+## 💡 Pistas: 
 
 - Usa la propiedad `onclick` de la etiqueta input.
 
