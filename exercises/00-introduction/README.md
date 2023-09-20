@@ -1,6 +1,6 @@
 # Welcome to JavaScript Events!
 
-During this tutorial we are going to go over Javascript Events:
+During this tutorial, we are going to go over JavaScript Events:
 
 1. onClick event.
 
