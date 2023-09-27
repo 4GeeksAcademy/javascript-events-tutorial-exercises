@@ -1,4 +1,4 @@
-# `04` Oculta onclick
+# `04` Hide onclick
 
 ## 📝 Instrucciones:
 
@@ -7,4 +7,4 @@
 
 ## 💡 Pista:
 
-Para ocultar un elemento en javascript debes usar **element.style.display**
++ Para ocultar un elemento con JavaScript debes usar `element.style.display`, y establece el valor correcto.
