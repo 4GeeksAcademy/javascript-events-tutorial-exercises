@@ -18,7 +18,7 @@ Cuando declaras una función event-handler, puedes usar un parámetro opcional q
 function myFunctionName(eventInformation) {}
 ```
 
-Este parámetro puede tener el nombre que quieras, y puedes estar seguro de que siempre contendrá la información del evento que la gatilló. Por ejemplo la propiedad `eventInformation.target` devolverá el objeto que gatilló el evento.
+Este parámetro puede tener el nombre que quieras, y puedes estar seguro de que siempre contendrá la información del evento que lo activó. Por ejemplo, la propiedad `eventInformation.target` devolverá el objeto que activó el evento.
 
 ## 📝 Instrucciones:
 
