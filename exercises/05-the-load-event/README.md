@@ -4,7 +4,7 @@ It is a very good practice to wait for the browser to finish loading the page be
 
 ## 📝 Instructions:
 
-1. Create a function called `loadListener` that listens to the `load` event and alerts the string "loading finished..." when called.
+1. Create a function called `loadListener` that listens to the `load` event and triggers an alert with the string "Loading finished..." when called.
 
 ## 💡 Hints:
 
