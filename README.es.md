@@ -39,7 +39,7 @@ Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Co
 
 Clona el repositorio en tu ambiente local y sigue los siguientes pasos:
 
-1) Asegúrate de tener instalado [LearnPack](https://github.com/learnpack/learnpack-cli) y `node.js` versión v14+ y jest v27. Este es el comando para instalar learnpack-cli y jest:
+1) Asegúrate de tener instalado [LearnPack](https://github.com/learnpack/learnpack-cli), `node.js` versión v14+ y jest v27. Este es el comando para instalar learnpack-cli y jest:
 
 ```bash
 $ npm i learnpack jest@27.0.6 -g
@@ -58,6 +58,7 @@ $ learnpack plugins:install learnpack-dom
 ```bash
 $ learnpack start
 ```
+
 <!-- endhide -->
 
 
