@@ -11,7 +11,7 @@ window.turnChanger = function turnChanger() {
 	} else if (currentUser == "Juan") {
 		currentUser = "Josh";
 	} else {
-        currentUser = "Mario";
+        	currentUser = "Mario";
   	}
 
 	document.getElementById("screen").innerHTML = "It's " + currentUser + "'s turn";
