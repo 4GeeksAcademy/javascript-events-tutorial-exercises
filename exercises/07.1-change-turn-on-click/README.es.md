@@ -1,4 +1,4 @@
-# `07.1` Cambio de Turno on Click
+# `07.1` Change Turn on Click
 
 Digamos que quieres crear una herramienta para cambiar de turno entre dos jugadores: Mario y Juan.
 
