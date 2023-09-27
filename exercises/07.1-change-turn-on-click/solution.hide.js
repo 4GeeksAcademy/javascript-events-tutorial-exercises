@@ -12,7 +12,7 @@ window.turnChanger = function turnChanger() {
 		currentUser = "Josh";
 	} else {
         currentUser = "Mario";
-  }
+  	}
 
 	document.getElementById("screen").innerHTML = "It's " + currentUser + "'s turn";
 }
