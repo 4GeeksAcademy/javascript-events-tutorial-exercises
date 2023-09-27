@@ -24,7 +24,7 @@ This parameter can have any name you want, and you can trust that it will always
 
 This website already has a listener for the click on the `#container` `div`. 
 
-1. Please prompt an alert with the id of the target element (the element that was clicked).
+1. Please prompt an alert with the `id` of the target element (the element that was clicked).
 
 ## 💡 Hint:
 
