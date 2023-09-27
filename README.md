@@ -37,13 +37,13 @@ This tutorial is part of a bigger group of tutorials about web development, this
 
 You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/javascript-events-tutorial-exercises) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises).
 
-> Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
+> Once you have VSCode open, the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
 ## Local Installation
 
 Clone the repository in your local environment and follow the steps below:
 
-1) Make sure you have [LearnPack](https://github.com/learnpack/learnpack-cli) installed and `node.js` version v14+ and jest v27. This is the command to install the learnpack-cli and jest:
+1) Make sure you have [LearnPack](https://github.com/learnpack/learnpack-cli), `node.js` version v14+, and jest v27 installed. This is the command to install the learnpack-cli and jest:
 
 ```bash
 $ npm i learnpack jest@27.0.6 -g
@@ -62,6 +62,7 @@ $ learnpack plugins:install learnpack-dom
 ```bash
 $ learnpack start
 ```
+
 <!-- endhide -->
 
 
@@ -81,7 +82,7 @@ Each exercise is a small React application containing the following files:
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻,  (idea) 🤔, (build-tests) ⚠️, (pull-request-review) 👀, (build-tutorial) ✅, (documentation) 📖
+1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻, (idea) 🤔, (build-tests) ⚠️, (pull-request-review) 👀, (build-tutorial) ✅, (documentation) 📖
 
 2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) 🐛, (coder) 💻, (translation) 🌎
 
