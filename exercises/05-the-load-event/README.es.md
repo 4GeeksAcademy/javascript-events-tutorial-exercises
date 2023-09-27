@@ -4,7 +4,7 @@ Es una muy buena práctica esperar a que el navegador termine de cargar la pági
 
 ## 📝 Instrucciones:
 
-1. Crea una función llamada `loadListener` que escuche al evento `load` y luego muestre una alerta al string "loading finished..." cuando se la llame.
+1. Crea una función llamada `loadListener` que escuche al evento `load` y luego muestre una alerta con el string "Loading finished..." cuando se la llame.
 
 ## 💡 Pistas:
 
