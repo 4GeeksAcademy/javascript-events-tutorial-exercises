@@ -1,6 +1,7 @@
 window.onload = function loadFn() {
-	var containerElm = document.getElementById("container");
+	let containerElm = document.getElementById("container");
 	containerElm.addEventListener("click", function(event) {
-		//you code here
+		// Your code here
+		
 	});
 };
