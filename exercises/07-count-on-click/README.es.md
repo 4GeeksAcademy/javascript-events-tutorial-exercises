@@ -1,6 +1,6 @@
 # `07` Count onclick
 
-Si tienes **variables globales**, puedes cambiar su valor durante el tiempo de ejecución usando los handlers de eventos. Por ejemplo, este código incrementa el valor de la variable `counter` cada vez que el usuario hace clic en el botón `#increase`.
+Si tienes **variables globales**, puedes cambiar su valor durante el tiempo de ejecución usando los handlers de eventos. Por ejemplo, este código incrementa el valor de la variable `counter` cada vez que el usuario hace clic en el botón **Increase**.
 
 ## 📝 Instrucciones:
 
