@@ -1,4 +1,4 @@
-# `07.1` Chance Turn on Click
+# `07.1` Change Turn on Click
 
 Let's say that you want to create a turn-changer tool to switch turns between two players: Mario and Juan.
 
