@@ -1,12 +1,12 @@
-# Welcome to Javascript Events!
+# Welcome to JavaScript Events!
 
-During this tutorial we are going to go over Javascript Events:
+During this tutorial, we are going to go over JavaScript Events:
 
-1. onClick
+1. onClick event.
 
 2. Get values from event targets.
 
-3. Change CSS properties with Javascript when events trigger.
+3. Change CSS properties with JavaScript when events trigger.
 
 4. Waiting for the website to LOAD before doing anything (`onLoad` event).
 
