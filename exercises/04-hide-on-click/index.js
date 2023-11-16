@@ -1,4 +1,4 @@
-window.myEventListener = function myEventListener()
-{
-	//your code here
+window.myEventListener = function myEventListener() {
+	// Your code here
+	
 }

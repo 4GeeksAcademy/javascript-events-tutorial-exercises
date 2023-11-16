@@ -6,4 +6,4 @@
 
 ## 💡 Hint:
 
-To hide an element with javascript your need to do **element.style.display**
++ To hide an element with JavaScript you need to do `element.style.display`, then set it with the correct value.
