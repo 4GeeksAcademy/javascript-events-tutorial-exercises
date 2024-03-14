@@ -19,7 +19,7 @@ This tutorial is part of a bigger group of tutorials about web development, this
 
 1. The first event that triggers on a website.
 2. Make your code react to user clicks on buttons.
-3. Make a counter that increases when the user clicks.
+3. Create a counter that increases when the user clicks.
 4. Add event listeners.
 5. What is the event target?
 
