@@ -6,8 +6,11 @@ window.onload = function loadfn() {
 
 // Modify this function
 window.turnChanger = function turnChanger() {
+	console.log("click detected.")
 	if (currentUser == "Mario") {
 		currentUser = "Juan";
+	} else if (currentUser == "Juan") {
+		currentUser = "Josh";
 	} else {
 		currentUser = "Mario";
 	}
