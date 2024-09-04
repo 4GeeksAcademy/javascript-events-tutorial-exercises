@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=1P3i4ea4WfI"
+---
+
 # `05` The load Event
 
 Es una muy buena práctica esperar a que el navegador termine de cargar la página antes de iniciar el flujo de tu sitio web/aplicación, para hacerlo, usamos el evento LOAD.

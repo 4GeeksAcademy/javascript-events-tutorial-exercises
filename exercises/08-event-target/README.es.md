@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=W4cQdQ574D4"
+---
+
 # `08` Event Target 
 
 Cada evento tiene información útil que puedes usar durante el tiempo de ejecución.

@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=XUGMHH4RaOY"
+---
+
 # `07.1` Change Turn on Click
 
 Digamos que quieres crear una herramienta para cambiar de turno entre dos jugadores: Mario y Juan.

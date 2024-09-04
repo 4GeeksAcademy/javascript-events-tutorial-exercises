@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=aIZsIz09GcY"
+---
+
 # `06` Add Listener With JS
 
 A veces debemos añadir listener de eventos DURANTE EL TIEMPO DE EJECUCIÓN.

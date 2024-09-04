@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=5L0_li8L16E"
+---
+
 # `01` Alert onclick
 
 Puedes establecer funciones de Event Listener para manejar cualquier tipo de eventos ¡La lista de eventos posibles es inmensa! Click, Double Click, Mouseover, Load, Print, etc... 

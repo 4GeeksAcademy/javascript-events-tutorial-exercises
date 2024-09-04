@@ -46,7 +46,7 @@ Clone the repository in your local environment and follow the steps below:
 1) Make sure you have [LearnPack](https://github.com/learnpack/learnpack-cli), `node.js` version v14+, and jest v27 installed. This is the command to install the learnpack-cli and jest:
 
 ```bash
-$ npm i learnpack jest@27.0.6 -g
+$ npm i learnpack jest@29.7.0 jest-environment-jsdom@29.7.0 -g
 ```
 
 2) Clone or download this repository. Once you finish downloading, you will find a new folder with a subdirectory "exercises" that contains all the exercises within.
@@ -54,7 +54,7 @@ $ npm i learnpack jest@27.0.6 -g
 3) Install the LearnPack plugin to test and compile vanillajs:
 
 ```bash
-$ learnpack plugins:install learnpack-dom
+$ learnpack plugins:install @learnpack/dom
 ```
 
 4) Start the tutorial/exercises by running the following command from the root of the project:

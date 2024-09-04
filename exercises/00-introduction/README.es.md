@@ -1,3 +1,7 @@
+---
+intro: "https://www.youtube.com/watch?v=TbciSCu2kFQ"
+---
+
 # ¡Bienvenido a Eventos de JavaScript!
 
 En este tutorial estaremos viendo los eventos de JavaScript:
