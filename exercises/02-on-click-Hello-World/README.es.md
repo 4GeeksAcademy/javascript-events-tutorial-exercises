@@ -6,7 +6,7 @@ tutorial: "https://www.youtube.com/watch?v=fFNighEUZuE"
 
 ## 📝 Instrucciones:
 
-1. Crea una función Listener de evento que sea llamada automáticamente cuando el usuario presione el botón que está en el lado HTML del ejercicio.
+1. Crea una función Listener de evento que sea llamada automáticamente cuando el usuario presione el botón que está en el archivo HTML del ejercicio.
 
 ## 💡 Pistas: 
 
