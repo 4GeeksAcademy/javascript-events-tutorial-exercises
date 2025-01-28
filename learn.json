@@ -5,8 +5,8 @@
 "duration": 8,
 "repository": "https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises",
 "description": {
-    "us": "Learn how to make your application interactive, wait for the user to click, use the keyboard, use the mouse, resize the window and much more!",
-    "es": "Aprende a convertir tu aplicación interactiva, espera por el usuario para hacer click, usa el teclado, usa el mouse, cambia el tamaño de la ventana y mucho más!"
+    "us": "Master JavaScript Events: Learn to make your application interactive by handling user actions like clicks, keyboard input, mouse movement, and window resizing. Explore onClick events, dynamically change CSS, retrieve event target values, and implement features like counters and onLoad actions.",
+    "es": "Domina los eventos de JavaScript: Aprende a hacer que tu aplicación sea interactiva manejando acciones del usuario como clics, entrada del teclado, movimiento del mouse y cambios de tamaño de la ventana. Explora eventos onClick, cambia dinámicamente el CSS, obtén valores de objetivos de eventos e implementa funciones como contadores y acciones onLoad."
 },
 "title": {
     "us": "Javascript Events",
@@ -20,7 +20,8 @@
 
     "disableGrading": true,
     "editor": {
-        "version": "5.0"
+        "version": "5.0",
+        "agent": "vscode"
     },
     "telemetry": {
         "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=152"
