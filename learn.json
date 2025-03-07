@@ -1,23 +1,22 @@
 {
-"language": "vanillajs",
-"difficulty": "beginner",
-"preview": "https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises/blob/master/.learn/assets/js-events.jpeg?raw=true",
-"duration": 8,
-"repository": "https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises",
-"description": {
-    "us": "Master JavaScript Events: Learn to make your application interactive by handling user actions like clicks, keyboard input, mouse movement, and window resizing. Explore onClick events, dynamically change CSS, retrieve event target values, and implement features like counters and onLoad actions.",
-    "es": "Domina los eventos de JavaScript: Aprende a hacer que tu aplicación sea interactiva manejando acciones del usuario como clics, entrada del teclado, movimiento del mouse y cambios de tamaño de la ventana. Explora eventos onClick, cambia dinámicamente el CSS, obtén valores de objetivos de eventos e implementa funciones como contadores y acciones onLoad."
-},
-"title": {
-    "us": "Javascript Events",
-    "es": "Eventos de Javascript"
-},
-"slug": "javascript-events",
-"projectType": "tutorial",
-"videoSolutions": false,
-"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
-"graded": false,
-
+    "language": "vanillajs",
+    "difficulty": "beginner",
+    "preview": "https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises/blob/master/.learn/assets/js-events.jpeg?raw=true",
+    "duration": 8,
+    "repository": "https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises",
+    "description": {
+        "us": "Master JavaScript Events: Learn to make your application interactive by handling user actions like clicks, keyboard input, mouse movement, and window resizing. Explore onClick events, dynamically change CSS, retrieve event target values, and implement features like counters and onLoad actions.",
+        "es": "Domina los eventos de JavaScript: Aprende a hacer que tu aplicación sea interactiva manejando acciones del usuario como clics, entrada del teclado, movimiento del mouse y cambios de tamaño de la ventana. Explora eventos onClick, cambia dinámicamente el CSS, obtén valores de objetivos de eventos e implementa funciones como contadores y acciones onLoad."
+    },
+    "title": {
+        "us": "Javascript Events",
+        "es": "Eventos de Javascript"
+    },
+    "slug": "javascript-events",
+    "projectType": "tutorial",
+    "videoSolutions": false,
+    "gitpod": true,
+    "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
     "disableGrading": true,
     "editor": {
         "version": "5.0",
